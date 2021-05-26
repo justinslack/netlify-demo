@@ -1,0 +1,17 @@
+/* Stylesheet */
+
+body {
+  font-family: Avenir, sans-serif;
+  color: #333333;
+  margin: 3rem auto;
+  max-width: 72ch;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #480352;
+}
